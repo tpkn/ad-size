@@ -12,7 +12,7 @@ For now it's focuses on meta tag containing width and height.
 
 
 ### input
-Type: _String_ 
+Type: _String_   
 Path to html file or it's raw content 
 
 
