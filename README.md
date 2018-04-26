@@ -19,7 +19,7 @@ Path to html file or it's raw content
 ### silent
 Type: _Boolean_  
 Default: `true`  
-If `true`, then no errors would be thrown, and the function returns `null`  
+If `true`, then no errors would be thrown, and if an error occurs, the function returns `null`  
 
 
 
