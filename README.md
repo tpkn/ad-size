@@ -23,7 +23,7 @@ If `true`, then no errors would be thrown, and if an error occurs, the function 
 
 
 
-# Usage
+## Usage
 
 ```javascript
 const adSize = require('ad-size');
