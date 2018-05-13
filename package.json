@@ -1,13 +1,22 @@
 {
    "name": "ad-size",
    "main": "ad-size.js",
-   "version": "1.0.0",
+   "version": "1.0.2",
    "author": {
       "url": "https://github.com/tpkn/"
    },
    "repository": "https://github.com/tpkn/ad-size",
    "license": "MIT",
    "keywords": [
-      "ad", "adv", "banner", "size", "width", "height", "meta", "tag", "ad.size", "html"
+      "ad",
+      "adv",
+      "banner",
+      "size",
+      "width",
+      "height",
+      "meta",
+      "tag",
+      "ad.size",
+      "html"
    ]
 }
