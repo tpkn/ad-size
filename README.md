@@ -5,6 +5,12 @@ Module extracts banner's size from html file
 For now it's focuses on meta tag containing width and height.
 
 
+## Installation
+```bash
+npm install ad-size
+```
+
+
 
 ## API
 
